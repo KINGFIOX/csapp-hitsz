@@ -351,7 +351,7 @@ Disassembly of section .text:
   40143b:	48 89 e5             	mov    %rsp,%rbp
   40143e:	48 83 ec 10          	sub    $0x10,%rsp
   401442:	89 7d fc             	mov    %edi,-0x4(%rbp)
-  401445:	8b 05 d5 3d 00 00    	mov    0x3dd5(%rip),%eax        # 405220 <global_value>
+  401445:	8b 05 d5 3d 00 00    	mov    0x3dd5(%rip),%eax        # 0x405220 <global_value>
   40144b:	89 c2                	mov    %eax,%edx
   40144d:	8b 05 c5 3d 00 00    	mov    0x3dc5(%rip),%eax        # 405218 <cookie>
   401453:	39 c2                	cmp    %eax,%edx
