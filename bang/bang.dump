@@ -1,0 +1,11 @@
+
+bang.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <.text>:
+   0:	b8 20 52 40 00       	mov    $0x405220,%eax
+   5:	c7 00 9b 2e 08 34    	movl   $0x34082e9b,(%rax)
+   b:	68 3a 14 40 00       	pushq  $0x40143a
+  10:	c3                   	retq   
