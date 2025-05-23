@@ -1,0 +1,86 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-O0",
+      "-o",
+      "./tsh",
+      "tsh.c"
+    ],
+    "directory": "/home/wangfiox/shlab-handout",
+    "file": "/home/wangfiox/shlab-handout/tsh.c",
+    "output": "/home/wangfiox/shlab-handout/tsh"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-O0",
+      "-o",
+      "./tsh",
+      "csapp.c"
+    ],
+    "directory": "/home/wangfiox/shlab-handout",
+    "file": "/home/wangfiox/shlab-handout/csapp.c",
+    "output": "/home/wangfiox/shlab-handout/tsh"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-O0",
+      "-o",
+      "myspin",
+      "myspin.c"
+    ],
+    "directory": "/home/wangfiox/shlab-handout",
+    "file": "/home/wangfiox/shlab-handout/myspin.c",
+    "output": "/home/wangfiox/shlab-handout/myspin"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-O0",
+      "-o",
+      "mysplit",
+      "mysplit.c"
+    ],
+    "directory": "/home/wangfiox/shlab-handout",
+    "file": "/home/wangfiox/shlab-handout/mysplit.c",
+    "output": "/home/wangfiox/shlab-handout/mysplit"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-O0",
+      "-o",
+      "mystop",
+      "mystop.c"
+    ],
+    "directory": "/home/wangfiox/shlab-handout",
+    "file": "/home/wangfiox/shlab-handout/mystop.c",
+    "output": "/home/wangfiox/shlab-handout/mystop"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-O0",
+      "-o",
+      "myint",
+      "myint.c"
+    ],
+    "directory": "/home/wangfiox/shlab-handout",
+    "file": "/home/wangfiox/shlab-handout/myint.c",
+    "output": "/home/wangfiox/shlab-handout/myint"
+  }
+]
